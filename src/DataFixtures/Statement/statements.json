@@ -1,0 +1,35 @@
+[
+  {
+    "title": "Announcement: Office Relocation",
+    "content": "We are excited to announce that our office will be relocating to a new space at [New Address] effective from [Date]. This move is a step forward in accommodating our growing team and providing a better working environment. The new location offers improved facilities and is conveniently located near public transportation. We look forward to welcoming you to our new office soon!",
+    "userEmail": "user1@user.ru",
+    "attachmentFile": "office.jpg"
+  },
+  {
+    "title": "Policy Update: Remote Work Guidelines",
+    "content": "Effective immediately, the company has updated its remote work guidelines to better support work-life balance and productivity. Employees are now permitted to work remotely up to three days per week, with flexible hours available upon approval from their manager. Please review the full policy in the employee handbook for details on eligibility and requirements.",
+    "userEmail": "user1@user.ru",
+    "attachmentFile": "policy.jpg"
+  },
+  {
+    "title": "Product Launch: Introducing the X200 Series",
+    "content": "We are thrilled to introduce our latest innovation, the X200 Series, a new line of products designed to revolutionize your experience with cutting-edge technology. Featuring enhanced performance, superior design, and unmatched reliability, the X200 Series will be available for purchase starting [Date]. Join us for the launch event on [Event Date] to experience it firsthand!",
+    "userEmail": "user1@user.ru"
+  },
+  {
+    "title": "Reminder: Annual Performance Reviews",
+    "content": "This is a reminder that annual performance reviews will take place between [Start Date] and [End Date]. Employees are encouraged to complete their self-assessments and submit them by [Submission Deadline]. Managers will be scheduling one-on-one meetings to discuss progress, goals, and career development plans. Your participation is crucial in ensuring a constructive review process.",
+    "userEmail": "user2@user.ru"
+  },
+  {
+    "title": "Safety Alert: Weather Advisory",
+    "content": "Due to the forecasted severe weather conditions in our area, we advise all employees to take necessary precautions and avoid non-essential travel. The office will be closed on [Date], and employees are encouraged to work from home. Please stay tuned for further updates and ensure your contact information is up to date for emergency notifications. Stay safe!",
+    "userEmail": "user2@user.ru",
+    "attachmentFile": "alert.png"
+  },
+  {
+    "title": "Thank You: Successful Fundraising Campaign",
+    "content": "We are incredibly grateful to everyone who participated in our recent fundraising campaign. Thanks to your generosity and support, we exceeded our goal and raised [Amount] for [Cause/Organization]. Your contributions will make a significant impact in our community, and we couldn’t have done it without you. Thank you for making a difference!",
+    "userEmail": "user2@user.ru"
+  }
+]

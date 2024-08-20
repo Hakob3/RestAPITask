@@ -1,0 +1,33 @@
+[
+  {
+    "email": "user1@user.ru",
+    "password": "111111",
+    "roles": [
+      "ROLE_USER"
+    ],
+    "client": {
+      "address": "Moscow",
+      "phoneNumber": "+79999999999",
+      "birthday": "2000-05-05"
+    }
+  },
+  {
+    "email": "user2@user.ru",
+    "password": "111111",
+    "roles": [
+      "ROLE_USER"
+    ],
+    "client": {
+      "address": "Sochi",
+      "phoneNumber": "+79999999991",
+      "birthday": "2002-01-01"
+    }
+  },
+  {
+    "email": "admin@admin.ru",
+    "password": "111111",
+    "roles": [
+      "ROLE_ADMIN"
+    ]
+  }
+]

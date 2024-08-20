@@ -1,0 +1,13 @@
+controllers:
+    resource:
+        path: ../src/Controller/
+        namespace: App\Controller
+    type: attribute
+api_login_check:
+    path: /api/authentication_token
+    methods: ['POST']
+app_swagger_ui:
+    path: /swagger
+    methods: GET
+    defaults: { _controller: nelmio_api_doc.controller.redocly }
+    condition: "'dev' == env('APP_ENV')"

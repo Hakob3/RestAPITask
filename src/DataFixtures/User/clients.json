@@ -1,0 +1,14 @@
+[
+  {
+    "userEmail": "user1@user.ru",
+    "address": "Moscow",
+    "phoneNumber": "+79999999999",
+    "birthday": "2000-05-05"
+  },
+  {
+    "userEmail": "user2@user.ru",
+    "address": "Sochi",
+    "phoneNumber": "+79999999991",
+    "birthday": "2002-01-01"
+  }
+]
